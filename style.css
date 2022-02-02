@@ -1,0 +1,25 @@
+html {
+    background-color: aqua;
+}
+
+table.mitabla {
+    border: red 1px solid;
+}
+
+table.mitabla2{
+    border: red 1px solid;
+}
+
+td.a {
+    border:blue 1px solid;
+}
+
+table.mitabla3{
+    text-align: center;
+    border:green 1px solid;
+   width: 500px; 
+}
+
+table.mitabla3 td {
+    border: green 1px solid;
+}
